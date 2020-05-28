@@ -1,0 +1,140 @@
+body{
+  margin:0;
+}
+
+.upper-section{
+  background-color:#E4F9F5;
+  text-align:center;
+  padding: 50px ;
+  padding-bottom: 0;
+  height:600px;
+
+
+}
+.hii-section{
+  padding: 50px;
+  text-align:center;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento',cursive ;
+  font-size: 3rem;
+  color:#66BFBF;
+}
+h2{
+  color: #66BFBF;
+ font-family: Sacramento;
+}
+h3{
+  color: #66BFBF;
+ font-family: Sacramento;
+
+}
+.h3a{
+  margin-top: 0;
+}
+
+
+p{
+  font-size: 20px;
+  line-height: 2;
+}
+.mountimg{
+  height: 400px;
+  position: absolute;
+  right: 400px;
+}
+.cloudimg1{
+  position: absolute;
+  right: 300px;
+}
+.cloudimg2{
+  position:absolute;
+  left: 400px;
+  top: 250px;
+
+}
+.middle-section{
+  background-color: darkgrey;
+  text-align: center;
+  padding: 50px;
+}
+
+.imgwebdevelop{
+width: 13%;
+ float: left;
+ margin-right: 30px;
+}
+.imgcpp{
+width: 13%;
+ float: right;
+ margin-left: 30px;
+
+}
+.middle-section{
+  background-color: #e0ebeb;
+  text-align:center;
+  padding: 50px;
+
+}
+.skill-row{
+
+  width: 40%;
+  margin:auto;
+  text-align: left;
+ }
+
+ hr{
+   border-style: dotted none none;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%;
+
+   margin-top: 40px;
+   
+ }
+ .hi-text{
+   width: 30%;
+   margin: auto;
+ }
+ .contact-text{
+   width: 30%;
+   margin: auto;
+ }
+.bottom-section{
+  background-color: white ;
+  text-align:center;
+  padding: 25px;
+
+}
+.footer-link{
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.btn {
+  margin-top: 20px;
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:7px 19px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
